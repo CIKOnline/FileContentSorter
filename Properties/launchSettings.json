@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileContentSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\repo\\TextFileGenerator\\bin\\Debug\\net8.0\\GeneratedFile_20240908_181429.txt\""
+    }
+  }
+}
